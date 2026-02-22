@@ -1,0 +1,1 @@
+This is main resource file of the project. Include art, video, audio and story.
